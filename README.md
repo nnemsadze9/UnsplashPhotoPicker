@@ -1,5 +1,5 @@
 # Unslpash Photo Picker
-A lightweight SwiftUI app that allows users to search, view, download, and share photos from Unsplash — built using MVVM architecture, modern iOS APIs, and no external dependencies."
+A lightweight SwiftUI app that allows users to search, view, download, and share photos from Unsplash — built using MVVM architecture, modern iOS APIs, and no external dependencies.
 
 # Explore Flow
 
